@@ -1,7 +1,7 @@
 
 .header{
     background-color: lightblue;
-    height: 90px;
+    height: 50px;
     display: flex;
     flex-direction: row;
     position: fixed;
@@ -14,7 +14,7 @@
 }
 .title{
     font-family: "Fascinate Inline", system-ui;
-font-size: 30px;
+font-size: 20px;
 margin-left: 50px;
 padding: 0;
 }
@@ -23,8 +23,8 @@ padding: 0;
         background-color: rgb(238, 212, 212);
         left: 0;
         bottom: 0;
-        top: 90px;
-        width: 170px;
+        top: 50px;
+        width: 120px;
        z-index: 1000;
        display: flex;
        flex-direction: column;
@@ -34,8 +34,8 @@ padding: 0;
   
 }
 .youtube-logo{
-    width: 100px;
-    margin-left: 20px;
+    width: 50px;
+    margin-left: 15px;
     margin-top: 40px;
     margin-bottom: 0;
     justify-items: center;
@@ -43,7 +43,7 @@ padding: 0;
 
 }
 .Subscribe-button{
-    font-size: 20px;
+    font-size: 10px;
     margin-left: 15px;
     margin-top: px;
     background-color: rgb(200, 0, 0);
